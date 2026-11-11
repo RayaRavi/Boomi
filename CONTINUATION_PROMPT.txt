@@ -1,0 +1,12 @@
+Continue the Boomi Associate Integration Developer Academy from CHECKPOINT 03 (attach the Checkpoint 03 folder/zip and the 176-page PDF). NOT a new build. Never overwrite original_index_backup.html. Do not ask me to confirm steps; if limits approach, save a partial checkpoint and present it first.
+
+State: index.html (~8.3 MB, single file + assets/). Routes #/l/<id>, #/x/<tool>. Appendix A + cert01-16 structured (window.__SUPP, tools/supp.js). 21 exact SVG diagram recreations (window.__DIAG, tools/diag.js). diagram_audit.json classifies all 176 pages. Tests in tests/ (Python Playwright, Chromium works): test_supplement_pages.py, test_diagrams.py, test_regression.py (they load /tmp/w/build/index.html — change the path). Rebuild flow: tools/rebuild.sh pattern injects style+data+script blocks before </body>.
+
+Remaining:
+1. Visually inspect remaining recreations vs originals (only 13,75,100,122,145,149 eyeballed); fix any outliers from pixel_diff.json (038, 075, 013_1, 056 highest). Page 148 has no moving-arrow dots.
+2. Semantic stage order for the cheat sheets (currently positional).
+3. Timed test of TUTORIAL 3-second auto-advance; keyboard/screen-reader pass on new widgets.
+4. Firefox/WebKit if installable; otherwise record as untested.
+5. Decide whether to show the page-8 banner (Design>Build>Deploy>Monitor) on Home.
+6. Update report/status, zip as Checkpoint 04.
+Do not claim completion beyond what is actually run.

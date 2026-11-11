@@ -1,0 +1,2293 @@
+{
+ "scope": "All 176 PDF pages classified. Pages 1-144 reviewed on rendered contact sheets; pages 145-176 by vector/image object counts plus extraction (150-176 contain no graphics). Detector candidates cross-checked visually.",
+ "pages": [
+  {
+   "pdf_page": 1,
+   "type": "front-matter",
+   "lesson": null,
+   "status": "n/a",
+   "note": "cover/contents/about",
+   "vector_stats": {
+    "curves": 2,
+    "lines": 1,
+    "rects": 5,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 2,
+   "type": "front-matter",
+   "lesson": null,
+   "status": "n/a",
+   "note": "cover/contents/about",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 27,
+    "rects": 2,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 3,
+   "type": "front-matter",
+   "lesson": null,
+   "status": "n/a",
+   "note": "cover/contents/about",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 27,
+    "rects": 2,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 4,
+   "type": "front-matter",
+   "lesson": null,
+   "status": "n/a",
+   "note": "cover/contents/about",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 19,
+    "rects": 2,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 5,
+   "type": "front-matter",
+   "lesson": null,
+   "status": "n/a",
+   "note": "cover/contents/about",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 5,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 6,
+   "type": "activity-screenshot",
+   "lesson": null,
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 2,
+    "images": 1
+   }
+  },
+  {
+   "pdf_page": 7,
+   "type": "front-matter",
+   "lesson": null,
+   "status": "n/a",
+   "note": "cover/contents/about",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 3,
+    "images": 1
+   }
+  },
+  {
+   "pdf_page": 8,
+   "type": "vector-diagram",
+   "lesson": null,
+   "status": "recreated-from-pdf-geometry",
+   "note": "exact vector recreation embedded (dg008_1) \u2014 front-cover banner (Design\u2192Build\u2192Deploy\u2192Monitor); front matter, not in any lesson page, so recreation is stored but not displayed",
+   "vector_stats": {
+    "curves": 9,
+    "lines": 6,
+    "rects": 6,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 9,
+   "type": "chapter-divider",
+   "lesson": "ch01",
+   "status": "n/a",
+   "note": "decorative divider",
+   "vector_stats": {
+    "curves": 4,
+    "lines": 2,
+    "rects": 4,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 10,
+   "type": "vector-diagram",
+   "lesson": "ch01",
+   "status": "recreated-from-pdf-geometry",
+   "note": "exact vector recreation embedded (dg010_1)",
+   "vector_stats": {
+    "curves": 14,
+    "lines": 21,
+    "rects": 11,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 11,
+   "type": "chapter-divider",
+   "lesson": "ch02",
+   "status": "n/a",
+   "note": "decorative divider",
+   "vector_stats": {
+    "curves": 5,
+    "lines": 2,
+    "rects": 4,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 12,
+   "type": "vector-diagram",
+   "lesson": "ch02",
+   "status": "recreated-from-pdf-geometry",
+   "note": "exact vector recreation embedded (dg012_1)",
+   "vector_stats": {
+    "curves": 11,
+    "lines": 43,
+    "rects": 17,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 13,
+   "type": "vector-diagram",
+   "lesson": "ch02",
+   "status": "recreated-from-pdf-geometry",
+   "note": "exact vector recreation embedded (dg013_1, dg013_2)",
+   "vector_stats": {
+    "curves": 34,
+    "lines": 44,
+    "rects": 25,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 14,
+   "type": "text-and-tables",
+   "lesson": "ch02",
+   "status": "n/a",
+   "note": "tables/callouts/text; no flow graphic",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 35,
+    "rects": 9,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 15,
+   "type": "activity-title",
+   "lesson": "act01",
+   "status": "n/a",
+   "note": "",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 2,
+    "images": 2
+   }
+  },
+  {
+   "pdf_page": 16,
+   "type": "activity-screenshot",
+   "lesson": "act01",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 4,
+    "images": 3
+   }
+  },
+  {
+   "pdf_page": 17,
+   "type": "activity-screenshot",
+   "lesson": "act01",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 5,
+    "images": 4
+   }
+  },
+  {
+   "pdf_page": 18,
+   "type": "activity-title",
+   "lesson": "act02",
+   "status": "n/a",
+   "note": "",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 2,
+    "images": 2
+   }
+  },
+  {
+   "pdf_page": 19,
+   "type": "activity-screenshot",
+   "lesson": "act02",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 11,
+    "images": 3
+   }
+  },
+  {
+   "pdf_page": 20,
+   "type": "activity-screenshot",
+   "lesson": "act02",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 4,
+    "images": 3
+   }
+  },
+  {
+   "pdf_page": 21,
+   "type": "activity-screenshot",
+   "lesson": "act02",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 4,
+    "images": 3
+   }
+  },
+  {
+   "pdf_page": 22,
+   "type": "activity-screenshot",
+   "lesson": "act02",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 4,
+    "images": 3
+   }
+  },
+  {
+   "pdf_page": 23,
+   "type": "chapter-divider",
+   "lesson": "ch03",
+   "status": "n/a",
+   "note": "decorative divider",
+   "vector_stats": {
+    "curves": 5,
+    "lines": 2,
+    "rects": 4,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 24,
+   "type": "text-and-tables",
+   "lesson": "ch03",
+   "status": "n/a",
+   "note": "tables/callouts/text; no flow graphic",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 45,
+    "rects": 13,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 25,
+   "type": "activity-title",
+   "lesson": "act03",
+   "status": "n/a",
+   "note": "",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 2,
+    "images": 2
+   }
+  },
+  {
+   "pdf_page": 26,
+   "type": "activity-screenshot",
+   "lesson": "act03",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 9,
+    "images": 3
+   }
+  },
+  {
+   "pdf_page": 27,
+   "type": "activity-screenshot",
+   "lesson": "act03",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 6,
+    "images": 5
+   }
+  },
+  {
+   "pdf_page": 28,
+   "type": "activity-title",
+   "lesson": "act04",
+   "status": "n/a",
+   "note": "",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 2,
+    "images": 2
+   }
+  },
+  {
+   "pdf_page": 29,
+   "type": "text-and-tables",
+   "lesson": "act04",
+   "status": "n/a",
+   "note": "tables/callouts/text; no flow graphic",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 4,
+    "images": 3
+   }
+  },
+  {
+   "pdf_page": 30,
+   "type": "activity-screenshot",
+   "lesson": "act04",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 8,
+    "images": 3
+   }
+  },
+  {
+   "pdf_page": 31,
+   "type": "activity-screenshot",
+   "lesson": "act04",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 4,
+    "images": 3
+   }
+  },
+  {
+   "pdf_page": 32,
+   "type": "activity-screenshot",
+   "lesson": "act04",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 8,
+    "images": 3
+   }
+  },
+  {
+   "pdf_page": 33,
+   "type": "activity-title",
+   "lesson": "act05",
+   "status": "n/a",
+   "note": "",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 2,
+    "images": 2
+   }
+  },
+  {
+   "pdf_page": 34,
+   "type": "activity-screenshot",
+   "lesson": "act05",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 4,
+    "images": 3
+   }
+  },
+  {
+   "pdf_page": 35,
+   "type": "activity-screenshot",
+   "lesson": "act05",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 4,
+    "images": 3
+   }
+  },
+  {
+   "pdf_page": 36,
+   "type": "text-and-tables",
+   "lesson": "act05",
+   "status": "n/a",
+   "note": "tables/callouts/text; no flow graphic",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 3,
+    "images": 2
+   }
+  },
+  {
+   "pdf_page": 37,
+   "type": "chapter-divider",
+   "lesson": "ch04",
+   "status": "n/a",
+   "note": "decorative divider",
+   "vector_stats": {
+    "curves": 5,
+    "lines": 2,
+    "rects": 4,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 38,
+   "type": "vector-diagram",
+   "lesson": "ch04",
+   "status": "recreated-from-pdf-geometry",
+   "note": "exact vector recreation embedded (dg038_1)",
+   "vector_stats": {
+    "curves": 11,
+    "lines": 45,
+    "rects": 18,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 39,
+   "type": "text-art-example",
+   "lesson": "ch04",
+   "status": "not-a-graphic-diagram; shown in source text",
+   "note": "monospace connector-chain example (text art, not a graphic diagram)",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 29,
+    "rects": 9,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 40,
+   "type": "chapter-divider",
+   "lesson": "ch05",
+   "status": "n/a",
+   "note": "decorative divider",
+   "vector_stats": {
+    "curves": 3,
+    "lines": 2,
+    "rects": 4,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 41,
+   "type": "text-and-tables",
+   "lesson": "ch05",
+   "status": "n/a",
+   "note": "tables/callouts/text; no flow graphic",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 44,
+    "rects": 14,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 42,
+   "type": "activity-title",
+   "lesson": "act06",
+   "status": "n/a",
+   "note": "",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 2,
+    "images": 2
+   }
+  },
+  {
+   "pdf_page": 43,
+   "type": "text-and-tables",
+   "lesson": "act06",
+   "status": "n/a",
+   "note": "tables/callouts/text; no flow graphic",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 3,
+    "images": 2
+   }
+  },
+  {
+   "pdf_page": 44,
+   "type": "activity-screenshot",
+   "lesson": "act06",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 10,
+    "images": 2
+   }
+  },
+  {
+   "pdf_page": 45,
+   "type": "activity-screenshot",
+   "lesson": "act06",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 5,
+    "images": 4
+   }
+  },
+  {
+   "pdf_page": 46,
+   "type": "activity-screenshot",
+   "lesson": "act06",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 4,
+    "images": 3
+   }
+  },
+  {
+   "pdf_page": 47,
+   "type": "activity-screenshot",
+   "lesson": "act06",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 4,
+    "images": 3
+   }
+  },
+  {
+   "pdf_page": 48,
+   "type": "activity-screenshot",
+   "lesson": "act06",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 3,
+    "images": 2
+   }
+  },
+  {
+   "pdf_page": 49,
+   "type": "activity-title",
+   "lesson": "act07",
+   "status": "n/a",
+   "note": "",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 2,
+    "images": 2
+   }
+  },
+  {
+   "pdf_page": 50,
+   "type": "activity-screenshot",
+   "lesson": "act07",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 4,
+    "images": 3
+   }
+  },
+  {
+   "pdf_page": 51,
+   "type": "activity-screenshot",
+   "lesson": "act07",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 5,
+    "images": 4
+   }
+  },
+  {
+   "pdf_page": 52,
+   "type": "activity-screenshot",
+   "lesson": "act07",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 4,
+    "images": 3
+   }
+  },
+  {
+   "pdf_page": 53,
+   "type": "activity-screenshot",
+   "lesson": "act07",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 4,
+    "images": 3
+   }
+  },
+  {
+   "pdf_page": 54,
+   "type": "chapter-divider",
+   "lesson": "ch06",
+   "status": "n/a",
+   "note": "decorative divider",
+   "vector_stats": {
+    "curves": 5,
+    "lines": 2,
+    "rects": 4,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 55,
+   "type": "text-and-tables",
+   "lesson": "ch06",
+   "status": "n/a",
+   "note": "tables/callouts/text; no flow graphic",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 47,
+    "rects": 14,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 56,
+   "type": "vector-diagram",
+   "lesson": "ch06",
+   "status": "recreated-from-pdf-geometry",
+   "note": "exact vector recreation embedded (dg056_1)",
+   "vector_stats": {
+    "curves": 14,
+    "lines": 26,
+    "rects": 12,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 57,
+   "type": "text-art-example",
+   "lesson": "ch06",
+   "status": "not-a-graphic-diagram; shown in source text",
+   "note": "monospace Start\u2192Set Properties\u2192Map\u2192Send example (text art); page also holds tables",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 45,
+    "rects": 13,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 58,
+   "type": "text-and-tables",
+   "lesson": "ch06",
+   "status": "n/a",
+   "note": "tables/callouts/text; no flow graphic",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 13,
+    "rects": 5,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 59,
+   "type": "chapter-divider",
+   "lesson": "ch07",
+   "status": "n/a",
+   "note": "decorative divider",
+   "vector_stats": {
+    "curves": 5,
+    "lines": 2,
+    "rects": 4,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 60,
+   "type": "text-and-tables",
+   "lesson": "ch07",
+   "status": "n/a",
+   "note": "tables/callouts/text; no flow graphic",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 44,
+    "rects": 15,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 61,
+   "type": "vector-diagram",
+   "lesson": "ch07",
+   "status": "recreated-from-pdf-geometry",
+   "note": "exact vector recreation embedded (dg061_1)",
+   "vector_stats": {
+    "curves": 11,
+    "lines": 16,
+    "rects": 9,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 62,
+   "type": "activity-title",
+   "lesson": "act08",
+   "status": "n/a",
+   "note": "",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 2,
+    "images": 2
+   }
+  },
+  {
+   "pdf_page": 63,
+   "type": "activity-screenshot",
+   "lesson": "act08",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 5,
+    "images": 4
+   }
+  },
+  {
+   "pdf_page": 64,
+   "type": "activity-screenshot",
+   "lesson": "act08",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 4,
+    "images": 3
+   }
+  },
+  {
+   "pdf_page": 65,
+   "type": "activity-screenshot",
+   "lesson": "act08",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 4,
+    "images": 3
+   }
+  },
+  {
+   "pdf_page": 66,
+   "type": "activity-screenshot",
+   "lesson": "act08",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 4,
+    "images": 3
+   }
+  },
+  {
+   "pdf_page": 67,
+   "type": "activity-title",
+   "lesson": "act09",
+   "status": "n/a",
+   "note": "",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 2,
+    "images": 2
+   }
+  },
+  {
+   "pdf_page": 68,
+   "type": "activity-screenshot",
+   "lesson": "act09",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 9,
+    "images": 4
+   }
+  },
+  {
+   "pdf_page": 69,
+   "type": "activity-screenshot",
+   "lesson": "act09",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 4,
+    "images": 3
+   }
+  },
+  {
+   "pdf_page": 70,
+   "type": "activity-screenshot",
+   "lesson": "act09",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 3,
+    "images": 2
+   }
+  },
+  {
+   "pdf_page": 71,
+   "type": "chapter-divider",
+   "lesson": "ch08",
+   "status": "n/a",
+   "note": "decorative divider",
+   "vector_stats": {
+    "curves": 5,
+    "lines": 2,
+    "rects": 4,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 72,
+   "type": "text-and-tables",
+   "lesson": "ch08",
+   "status": "n/a",
+   "note": "tables/callouts/text; no flow graphic",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 52,
+    "rects": 17,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 73,
+   "type": "text-and-tables",
+   "lesson": "ch08",
+   "status": "n/a",
+   "note": "tables/callouts/text; no flow graphic",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 8,
+    "rects": 4,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 74,
+   "type": "chapter-divider",
+   "lesson": "ch09",
+   "status": "n/a",
+   "note": "decorative divider",
+   "vector_stats": {
+    "curves": 4,
+    "lines": 2,
+    "rects": 4,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 75,
+   "type": "vector-diagram",
+   "lesson": "ch09",
+   "status": "recreated-from-pdf-geometry",
+   "note": "exact vector recreation embedded (dg075_1)",
+   "vector_stats": {
+    "curves": 14,
+    "lines": 40,
+    "rects": 15,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 76,
+   "type": "text-and-tables",
+   "lesson": "ch09",
+   "status": "n/a",
+   "note": "tables/callouts/text; no flow graphic",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 43,
+    "rects": 15,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 77,
+   "type": "activity-title",
+   "lesson": "act10",
+   "status": "n/a",
+   "note": "",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 2,
+    "images": 2
+   }
+  },
+  {
+   "pdf_page": 78,
+   "type": "activity-screenshot",
+   "lesson": "act10",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 5,
+    "images": 4
+   }
+  },
+  {
+   "pdf_page": 79,
+   "type": "activity-screenshot",
+   "lesson": "act10",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 4,
+    "images": 3
+   }
+  },
+  {
+   "pdf_page": 80,
+   "type": "activity-screenshot",
+   "lesson": "act10",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 4,
+    "images": 3
+   }
+  },
+  {
+   "pdf_page": 81,
+   "type": "activity-title",
+   "lesson": "act11",
+   "status": "n/a",
+   "note": "",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 2,
+    "images": 2
+   }
+  },
+  {
+   "pdf_page": 82,
+   "type": "activity-screenshot",
+   "lesson": "act11",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 9,
+    "images": 3
+   }
+  },
+  {
+   "pdf_page": 83,
+   "type": "activity-screenshot",
+   "lesson": "act11",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 3,
+    "images": 2
+   }
+  },
+  {
+   "pdf_page": 84,
+   "type": "activity-title",
+   "lesson": "act12",
+   "status": "n/a",
+   "note": "",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 2,
+    "images": 2
+   }
+  },
+  {
+   "pdf_page": 85,
+   "type": "activity-screenshot",
+   "lesson": "act12",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 4,
+    "images": 3
+   }
+  },
+  {
+   "pdf_page": 86,
+   "type": "activity-screenshot",
+   "lesson": "act12",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 3,
+    "images": 2
+   }
+  },
+  {
+   "pdf_page": 87,
+   "type": "activity-title",
+   "lesson": "act13",
+   "status": "n/a",
+   "note": "",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 2,
+    "images": 2
+   }
+  },
+  {
+   "pdf_page": 88,
+   "type": "activity-screenshot",
+   "lesson": "act13",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 4,
+    "images": 3
+   }
+  },
+  {
+   "pdf_page": 89,
+   "type": "activity-screenshot",
+   "lesson": "act13",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 10,
+    "images": 2
+   }
+  },
+  {
+   "pdf_page": 90,
+   "type": "activity-screenshot",
+   "lesson": "act13",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 5,
+    "images": 4
+   }
+  },
+  {
+   "pdf_page": 91,
+   "type": "activity-screenshot",
+   "lesson": "act13",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 4,
+    "images": 3
+   }
+  },
+  {
+   "pdf_page": 92,
+   "type": "activity-screenshot",
+   "lesson": "act13",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 4,
+    "images": 3
+   }
+  },
+  {
+   "pdf_page": 93,
+   "type": "activity-title",
+   "lesson": "act14",
+   "status": "n/a",
+   "note": "",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 2,
+    "images": 2
+   }
+  },
+  {
+   "pdf_page": 94,
+   "type": "activity-screenshot",
+   "lesson": "act14",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 81,
+    "images": 2
+   }
+  },
+  {
+   "pdf_page": 95,
+   "type": "activity-title",
+   "lesson": "act15",
+   "status": "n/a",
+   "note": "",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 2,
+    "images": 2
+   }
+  },
+  {
+   "pdf_page": 96,
+   "type": "activity-screenshot",
+   "lesson": "act15",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 5,
+    "images": 4
+   }
+  },
+  {
+   "pdf_page": 97,
+   "type": "activity-title",
+   "lesson": "act16",
+   "status": "n/a",
+   "note": "",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 2,
+    "images": 2
+   }
+  },
+  {
+   "pdf_page": 98,
+   "type": "activity-screenshot",
+   "lesson": "act16",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 5,
+    "images": 4
+   }
+  },
+  {
+   "pdf_page": 99,
+   "type": "chapter-divider",
+   "lesson": "ch10",
+   "status": "n/a",
+   "note": "decorative divider",
+   "vector_stats": {
+    "curves": 5,
+    "lines": 2,
+    "rects": 4,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 100,
+   "type": "vector-diagram",
+   "lesson": "ch10",
+   "status": "recreated-from-pdf-geometry",
+   "note": "exact vector recreation embedded (dg100_1)",
+   "vector_stats": {
+    "curves": 17,
+    "lines": 55,
+    "rects": 21,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 101,
+   "type": "text-and-tables",
+   "lesson": "ch10",
+   "status": "n/a",
+   "note": "tables/callouts/text; no flow graphic",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 34,
+    "rects": 10,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 102,
+   "type": "activity-title",
+   "lesson": "act17",
+   "status": "n/a",
+   "note": "",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 2,
+    "images": 2
+   }
+  },
+  {
+   "pdf_page": 103,
+   "type": "activity-screenshot",
+   "lesson": "act17",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 4,
+    "images": 3
+   }
+  },
+  {
+   "pdf_page": 104,
+   "type": "activity-screenshot",
+   "lesson": "act17",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 5,
+    "images": 4
+   }
+  },
+  {
+   "pdf_page": 105,
+   "type": "activity-title",
+   "lesson": "act18",
+   "status": "n/a",
+   "note": "",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 2,
+    "images": 2
+   }
+  },
+  {
+   "pdf_page": 106,
+   "type": "activity-screenshot",
+   "lesson": "act18",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 4,
+    "images": 3
+   }
+  },
+  {
+   "pdf_page": 107,
+   "type": "activity-screenshot",
+   "lesson": "act18",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 4,
+    "images": 3
+   }
+  },
+  {
+   "pdf_page": 108,
+   "type": "activity-screenshot",
+   "lesson": "act18",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 4,
+    "images": 3
+   }
+  },
+  {
+   "pdf_page": 109,
+   "type": "activity-title",
+   "lesson": "act19",
+   "status": "n/a",
+   "note": "",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 2,
+    "images": 2
+   }
+  },
+  {
+   "pdf_page": 110,
+   "type": "activity-screenshot",
+   "lesson": "act19",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 4,
+    "images": 3
+   }
+  },
+  {
+   "pdf_page": 111,
+   "type": "activity-screenshot",
+   "lesson": "act19",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 6,
+    "images": 5
+   }
+  },
+  {
+   "pdf_page": 112,
+   "type": "activity-screenshot",
+   "lesson": "act19",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 3,
+    "images": 2
+   }
+  },
+  {
+   "pdf_page": 113,
+   "type": "activity-title",
+   "lesson": "act20",
+   "status": "n/a",
+   "note": "",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 2,
+    "images": 2
+   }
+  },
+  {
+   "pdf_page": 114,
+   "type": "activity-screenshot",
+   "lesson": "act20",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 9,
+    "images": 3
+   }
+  },
+  {
+   "pdf_page": 115,
+   "type": "activity-screenshot",
+   "lesson": "act20",
+   "status": "preserved-original",
+   "note": "UI screenshot(s); preserved in TUTORIAL slideshow",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 1,
+    "rects": 3,
+    "images": 2
+   }
+  },
+  {
+   "pdf_page": 116,
+   "type": "chapter-divider",
+   "lesson": "ch11",
+   "status": "n/a",
+   "note": "decorative divider",
+   "vector_stats": {
+    "curves": 5,
+    "lines": 2,
+    "rects": 4,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 117,
+   "type": "vector-diagram",
+   "lesson": "ch11",
+   "status": "recreated-from-pdf-geometry",
+   "note": "exact vector recreation embedded (dg117_1)",
+   "vector_stats": {
+    "curves": 14,
+    "lines": 47,
+    "rects": 18,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 118,
+   "type": "chapter-divider",
+   "lesson": "ch12",
+   "status": "n/a",
+   "note": "decorative divider",
+   "vector_stats": {
+    "curves": 5,
+    "lines": 2,
+    "rects": 4,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 119,
+   "type": "vector-diagram",
+   "lesson": "ch12",
+   "status": "recreated-from-pdf-geometry",
+   "note": "exact vector recreation embedded (dg119_1)",
+   "vector_stats": {
+    "curves": 16,
+    "lines": 46,
+    "rects": 20,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 120,
+   "type": "text-and-tables",
+   "lesson": "ch12",
+   "status": "n/a",
+   "note": "tables/callouts/text; no flow graphic",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 26,
+    "rects": 9,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 121,
+   "type": "chapter-divider",
+   "lesson": "ch13",
+   "status": "n/a",
+   "note": "decorative divider",
+   "vector_stats": {
+    "curves": 3,
+    "lines": 2,
+    "rects": 4,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 122,
+   "type": "vector-diagram",
+   "lesson": "ch13",
+   "status": "recreated-from-pdf-geometry",
+   "note": "exact vector recreation embedded (dg122_1)",
+   "vector_stats": {
+    "curves": 25,
+    "lines": 43,
+    "rects": 22,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 123,
+   "type": "chapter-divider",
+   "lesson": "ch14",
+   "status": "n/a",
+   "note": "decorative divider",
+   "vector_stats": {
+    "curves": 3,
+    "lines": 2,
+    "rects": 4,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 124,
+   "type": "text-and-tables",
+   "lesson": "ch14",
+   "status": "n/a",
+   "note": "tables/callouts/text; no flow graphic",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 42,
+    "rects": 49,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 125,
+   "type": "text-and-tables",
+   "lesson": "ch14",
+   "status": "n/a",
+   "note": "tables/callouts/text; no flow graphic",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 57,
+    "rects": 36,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 126,
+   "type": "chapter-divider",
+   "lesson": "ch15",
+   "status": "n/a",
+   "note": "decorative divider",
+   "vector_stats": {
+    "curves": 2,
+    "lines": 2,
+    "rects": 4,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 127,
+   "type": "text-and-tables",
+   "lesson": "ch15",
+   "status": "n/a",
+   "note": "tables/callouts/text; no flow graphic",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 44,
+    "rects": 17,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 128,
+   "type": "chapter-divider",
+   "lesson": "ch16",
+   "status": "n/a",
+   "note": "decorative divider",
+   "vector_stats": {
+    "curves": 2,
+    "lines": 2,
+    "rects": 4,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 129,
+   "type": "text-and-tables",
+   "lesson": "ch16",
+   "status": "n/a",
+   "note": "tables/callouts/text; no flow graphic",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 55,
+    "rects": 11,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 130,
+   "type": "text-and-tables",
+   "lesson": "ch16",
+   "status": "n/a",
+   "note": "tables/callouts/text; no flow graphic",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 68,
+    "rects": 13,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 131,
+   "type": "text-and-tables",
+   "lesson": "ch16",
+   "status": "n/a",
+   "note": "tables/callouts/text; no flow graphic",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 68,
+    "rects": 13,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 132,
+   "type": "text-and-tables",
+   "lesson": "ch16",
+   "status": "n/a",
+   "note": "tables/callouts/text; no flow graphic",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 68,
+    "rects": 13,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 133,
+   "type": "text-and-tables",
+   "lesson": "ch16",
+   "status": "n/a",
+   "note": "tables/callouts/text; no flow graphic",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 68,
+    "rects": 13,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 134,
+   "type": "text-and-tables",
+   "lesson": "ch16",
+   "status": "n/a",
+   "note": "tables/callouts/text; no flow graphic",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 16,
+    "rects": 5,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 135,
+   "type": "chapter-divider",
+   "lesson": "ch17",
+   "status": "n/a",
+   "note": "decorative divider",
+   "vector_stats": {
+    "curves": 4,
+    "lines": 2,
+    "rects": 4,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 136,
+   "type": "text-and-tables",
+   "lesson": "ch17",
+   "status": "n/a",
+   "note": "tables/callouts/text; no flow graphic",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 50,
+    "rects": 19,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 137,
+   "type": "text-and-tables",
+   "lesson": "ch17",
+   "status": "n/a",
+   "note": "tables/callouts/text; no flow graphic",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 35,
+    "rects": 14,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 138,
+   "type": "text-and-tables",
+   "lesson": "ch17",
+   "status": "n/a",
+   "note": "tables/callouts/text; no flow graphic",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 23,
+    "rects": 8,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 139,
+   "type": "chapter-divider",
+   "lesson": "ch18",
+   "status": "n/a",
+   "note": "decorative divider",
+   "vector_stats": {
+    "curves": 3,
+    "lines": 2,
+    "rects": 4,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 140,
+   "type": "text-and-tables",
+   "lesson": "ch18",
+   "status": "n/a",
+   "note": "tables/callouts/text; no flow graphic",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 18,
+    "rects": 5,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 141,
+   "type": "chapter-divider",
+   "lesson": "ch19",
+   "status": "n/a",
+   "note": "decorative divider",
+   "vector_stats": {
+    "curves": 8,
+    "lines": 2,
+    "rects": 4,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 142,
+   "type": "vector-diagram",
+   "lesson": "ch19",
+   "status": "recreated-from-pdf-geometry",
+   "note": "exact vector recreation embedded (dg142_1)",
+   "vector_stats": {
+    "curves": 71,
+    "lines": 35,
+    "rects": 11,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 143,
+   "type": "vector-diagram",
+   "lesson": "ch19",
+   "status": "recreated-from-pdf-geometry",
+   "note": "exact vector recreation embedded (dg143_1)",
+   "vector_stats": {
+    "curves": 51,
+    "lines": 11,
+    "rects": 20,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 144,
+   "type": "vector-diagram",
+   "lesson": "ch19",
+   "status": "recreated-from-pdf-geometry",
+   "note": "exact vector recreation embedded (dg144_1)",
+   "vector_stats": {
+    "curves": 60,
+    "lines": 17,
+    "rects": 7,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 145,
+   "type": "vector-diagram",
+   "lesson": "ch19",
+   "status": "recreated-from-pdf-geometry",
+   "note": "exact vector recreation embedded (dg145_1)",
+   "vector_stats": {
+    "curves": 36,
+    "lines": 9,
+    "rects": 11,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 146,
+   "type": "vector-diagram",
+   "lesson": "ch19",
+   "status": "recreated-from-pdf-geometry",
+   "note": "exact vector recreation embedded (dg146_1)",
+   "vector_stats": {
+    "curves": 66,
+    "lines": 19,
+    "rects": 16,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 147,
+   "type": "vector-diagram",
+   "lesson": "ch19",
+   "status": "recreated-from-pdf-geometry",
+   "note": "exact vector recreation embedded (dg147_1)",
+   "vector_stats": {
+    "curves": 68,
+    "lines": 15,
+    "rects": 17,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 148,
+   "type": "vector-diagram",
+   "lesson": "ch19",
+   "status": "recreated-from-pdf-geometry",
+   "note": "exact vector recreation embedded (dg148_1)",
+   "vector_stats": {
+    "curves": 54,
+    "lines": 16,
+    "rects": 8,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 149,
+   "type": "vector-diagram",
+   "lesson": "ch19",
+   "status": "recreated-from-pdf-geometry",
+   "note": "exact vector recreation embedded (dg149_1)",
+   "vector_stats": {
+    "curves": 75,
+    "lines": 20,
+    "rects": 14,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 150,
+   "type": "text-and-tables",
+   "lesson": "appA",
+   "status": "structured content rendered in site",
+   "note": "no graphics (0 curves, 0 images)",
+   "vector_stats": {
+    "curves": 2,
+    "lines": 2,
+    "rects": 4,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 151,
+   "type": "text-and-tables",
+   "lesson": "appA",
+   "status": "structured content rendered in site",
+   "note": "no graphics (0 curves, 0 images)",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 28,
+    "rects": 11,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 152,
+   "type": "text-and-tables",
+   "lesson": "appA",
+   "status": "structured content rendered in site",
+   "note": "no graphics (0 curves, 0 images)",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 8,
+    "rects": 4,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 153,
+   "type": "text-and-tables",
+   "lesson": "cert01",
+   "status": "structured content rendered in site",
+   "note": "no graphics (0 curves, 0 images)",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 2,
+    "rects": 1,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 154,
+   "type": "text-and-tables",
+   "lesson": "cert01",
+   "status": "structured content rendered in site",
+   "note": "no graphics (0 curves, 0 images)",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 11,
+    "rects": 6,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 155,
+   "type": "text-and-tables",
+   "lesson": "cert02",
+   "status": "structured content rendered in site",
+   "note": "no graphics (0 curves, 0 images)",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 25,
+    "rects": 14,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 156,
+   "type": "text-and-tables",
+   "lesson": "cert03",
+   "status": "structured content rendered in site",
+   "note": "no graphics (0 curves, 0 images)",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 12,
+    "rects": 6,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 157,
+   "type": "text-and-tables",
+   "lesson": "cert04",
+   "status": "structured content rendered in site",
+   "note": "no graphics (0 curves, 0 images)",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 23,
+    "rects": 12,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 158,
+   "type": "text-and-tables",
+   "lesson": "cert05",
+   "status": "structured content rendered in site",
+   "note": "no graphics (0 curves, 0 images)",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 20,
+    "rects": 14,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 159,
+   "type": "text-and-tables",
+   "lesson": "cert06",
+   "status": "structured content rendered in site",
+   "note": "no graphics (0 curves, 0 images)",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 24,
+    "rects": 12,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 160,
+   "type": "text-and-tables",
+   "lesson": "cert07",
+   "status": "structured content rendered in site",
+   "note": "no graphics (0 curves, 0 images)",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 14,
+    "rects": 8,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 161,
+   "type": "text-and-tables",
+   "lesson": "cert08",
+   "status": "structured content rendered in site",
+   "note": "no graphics (0 curves, 0 images)",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 14,
+    "rects": 8,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 162,
+   "type": "text-and-tables",
+   "lesson": "cert09",
+   "status": "structured content rendered in site",
+   "note": "no graphics (0 curves, 0 images)",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 15,
+    "rects": 9,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 163,
+   "type": "text-and-tables",
+   "lesson": "cert10",
+   "status": "structured content rendered in site",
+   "note": "no graphics (0 curves, 0 images)",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 2,
+    "rects": 1,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 164,
+   "type": "text-and-tables",
+   "lesson": "cert10",
+   "status": "structured content rendered in site",
+   "note": "no graphics (0 curves, 0 images)",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 13,
+    "rects": 7,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 165,
+   "type": "text-and-tables",
+   "lesson": "cert11",
+   "status": "structured content rendered in site",
+   "note": "no graphics (0 curves, 0 images)",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 17,
+    "rects": 12,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 166,
+   "type": "text-and-tables",
+   "lesson": "cert12",
+   "status": "structured content rendered in site",
+   "note": "no graphics (0 curves, 0 images)",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 39,
+    "rects": 23,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 167,
+   "type": "text-and-tables",
+   "lesson": "cert13",
+   "status": "structured content rendered in site",
+   "note": "no graphics (0 curves, 0 images)",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 2,
+    "rects": 1,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 168,
+   "type": "text-and-tables",
+   "lesson": "cert13",
+   "status": "structured content rendered in site",
+   "note": "no graphics (0 curves, 0 images)",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 2,
+    "rects": 1,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 169,
+   "type": "text-and-tables",
+   "lesson": "cert13",
+   "status": "structured content rendered in site",
+   "note": "no graphics (0 curves, 0 images)",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 2,
+    "rects": 1,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 170,
+   "type": "text-and-tables",
+   "lesson": "cert13",
+   "status": "structured content rendered in site",
+   "note": "no graphics (0 curves, 0 images)",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 2,
+    "rects": 1,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 171,
+   "type": "text-and-tables",
+   "lesson": "cert13",
+   "status": "structured content rendered in site",
+   "note": "no graphics (0 curves, 0 images)",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 2,
+    "rects": 1,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 172,
+   "type": "text-and-tables",
+   "lesson": "cert13",
+   "status": "structured content rendered in site",
+   "note": "no graphics (0 curves, 0 images)",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 2,
+    "rects": 1,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 173,
+   "type": "text-and-tables",
+   "lesson": "cert14",
+   "status": "structured content rendered in site",
+   "note": "no graphics (0 curves, 0 images)",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 2,
+    "rects": 1,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 174,
+   "type": "text-and-tables",
+   "lesson": "cert14",
+   "status": "structured content rendered in site",
+   "note": "no graphics (0 curves, 0 images)",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 2,
+    "rects": 1,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 175,
+   "type": "text-and-tables",
+   "lesson": "cert15",
+   "status": "structured content rendered in site",
+   "note": "no graphics (0 curves, 0 images)",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 15,
+    "rects": 9,
+    "images": 0
+   }
+  },
+  {
+   "pdf_page": 176,
+   "type": "text-and-tables",
+   "lesson": "cert16",
+   "status": "structured content rendered in site",
+   "note": "no graphics (0 curves, 0 images)",
+   "vector_stats": {
+    "curves": 0,
+    "lines": 2,
+    "rects": 1,
+    "images": 0
+   }
+  }
+ ]
+}

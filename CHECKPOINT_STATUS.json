@@ -1,0 +1,20 @@
+{
+ "checkpoint": "03",
+ "completed": [
+  "Appendix A (12 discrepancy cards, checklist, notes) and 16 Certification supplement pages now render structured content extracted from PDF pages 150-176; verbatim source remains last",
+  "42-question practice exam with scoring/explanations, 8 scenarios, readiness scorecard, checklists, 7/14/30-day plans, official links (state saved locally)",
+  "Animated step flows for supplement sequences (cert02,03,04,07,08,10)",
+  "All 176 PDF pages classified (diagram_audit.json)",
+  "21 vector diagram regions (pages 8,10,12,13x2,38,56,61,75,100,117,119,122,142-149) recreated from PDF geometry with step highlight, moving arrows, original crop toggle, zoom; shown in 20 of them (page 8 is front matter)",
+  "Real Chromium testing at 1280/820/390: 56 lessons + 7 extra tools no console errors, no horizontal overflow, source text last; 20 activities' TUTORIAL slideshows match inventory counts (one image at a time, Next works)"
+ ],
+ "known_limits": [
+  "Pixel-diff vs original crops: mean abs diff 2-10 of 255 for all 21 (see pixel_diff.json); residual differences are partly cut-off text at crop edges, not individually inspected for all",
+  "Page 148 cheat sheet has no detected arrowheads so no moving-arrow dots; some vertical decision arrows have very short motion paths",
+  "Stage order is reading-order by position, not semantic order; boxes with many words may be grouped as one stage",
+  "Only Chromium tested (Firefox/WebKit not installed); no real Android device; 3-second auto-advance timing of tutorial slideshow only checked via Next, not timed",
+  "Existing eight conceptual cheat-sheet walkthroughs from earlier checkpoints are kept alongside the new exact recreations",
+  "Diagram images embedded as JPEG data URIs: index.html is about 8.8 MB"
+ ],
+ "next": ["compare every recreation against its crop automatically (pixel diff) and fix outliers", "timed test of slideshow auto-advance", "Firefox/WebKit if available", "keyboard/screen-reader pass on new widgets", "decide whether to show page-8 banner on Home"]
+}

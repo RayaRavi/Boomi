@@ -1,0 +1,703 @@
+[
+  {
+    "activity_id": "act01",
+    "activity": "Create Your Folders",
+    "pdf_page_range": [
+      15,
+      17
+    ],
+    "screenshot_pages": [
+      {
+        "pdf_page": 16,
+        "asset_count": 2,
+        "assets": [
+          "assets/images/img-016-007.png",
+          "assets/images/img-016-008.png"
+        ]
+      },
+      {
+        "pdf_page": 17,
+        "asset_count": 3,
+        "assets": [
+          "assets/images/img-017-010.png",
+          "assets/images/img-017-011.png",
+          "assets/images/img-017-012.png"
+        ]
+      }
+    ],
+    "screenshot_count": 5,
+    "tutorial": "slideshow included"
+  },
+  {
+    "activity_id": "act02",
+    "activity": "Install a Process",
+    "pdf_page_range": [
+      18,
+      22
+    ],
+    "screenshot_pages": [
+      {
+        "pdf_page": 19,
+        "asset_count": 2,
+        "assets": [
+          "assets/images/img-019-017.png",
+          "assets/images/img-019-018.png"
+        ]
+      },
+      {
+        "pdf_page": 20,
+        "asset_count": 2,
+        "assets": [
+          "assets/images/img-020-020.png",
+          "assets/images/img-020-021.png"
+        ]
+      },
+      {
+        "pdf_page": 21,
+        "asset_count": 3,
+        "assets": [
+          "assets/images/img-021-023.png",
+          "assets/images/img-021-024.png",
+          "assets/images/img-021-025.png"
+        ]
+      },
+      {
+        "pdf_page": 22,
+        "asset_count": 2,
+        "assets": [
+          "assets/images/img-022-027.png",
+          "assets/images/img-022-028.jpg"
+        ]
+      }
+    ],
+    "screenshot_count": 9,
+    "tutorial": "slideshow included"
+  },
+  {
+    "activity_id": "act03",
+    "activity": "Creating an Environment",
+    "pdf_page_range": [
+      25,
+      27
+    ],
+    "screenshot_pages": [
+      {
+        "pdf_page": 26,
+        "asset_count": 2,
+        "assets": [
+          "assets/images/img-026-033.png",
+          "assets/images/img-026-034.png"
+        ]
+      },
+      {
+        "pdf_page": 27,
+        "asset_count": 4,
+        "assets": [
+          "assets/images/img-027-036.png",
+          "assets/images/img-027-037.png",
+          "assets/images/img-027-038.png",
+          "assets/images/img-027-039.png"
+        ]
+      }
+    ],
+    "screenshot_count": 6,
+    "tutorial": "slideshow included"
+  },
+  {
+    "activity_id": "act04",
+    "activity": "Setting up Test and Production Runtime Clouds",
+    "pdf_page_range": [
+      28,
+      32
+    ],
+    "screenshot_pages": [
+      {
+        "pdf_page": 29,
+        "asset_count": 2,
+        "assets": [
+          "assets/images/img-029-044.png",
+          "assets/images/img-029-045.png"
+        ]
+      },
+      {
+        "pdf_page": 30,
+        "asset_count": 2,
+        "assets": [
+          "assets/images/img-030-047.png",
+          "assets/images/img-030-048.png"
+        ]
+      },
+      {
+        "pdf_page": 31,
+        "asset_count": 2,
+        "assets": [
+          "assets/images/img-031-050.png",
+          "assets/images/img-031-051.png"
+        ]
+      },
+      {
+        "pdf_page": 32,
+        "asset_count": 2,
+        "assets": [
+          "assets/images/img-032-053.png",
+          "assets/images/img-032-054.png"
+        ]
+      }
+    ],
+    "screenshot_count": 8,
+    "tutorial": "slideshow included"
+  },
+  {
+    "activity_id": "act05",
+    "activity": "Attaching the Runtime to an Environment",
+    "pdf_page_range": [
+      33,
+      36
+    ],
+    "screenshot_pages": [
+      {
+        "pdf_page": 34,
+        "asset_count": 2,
+        "assets": [
+          "assets/images/img-034-059.png",
+          "assets/images/img-034-060.png"
+        ]
+      },
+      {
+        "pdf_page": 35,
+        "asset_count": 2,
+        "assets": [
+          "assets/images/img-035-062.png",
+          "assets/images/img-035-063.png"
+        ]
+      },
+      {
+        "pdf_page": 36,
+        "asset_count": 1,
+        "assets": [
+          "assets/images/img-036-065.png"
+        ]
+      }
+    ],
+    "screenshot_count": 5,
+    "tutorial": "slideshow included"
+  },
+  {
+    "activity_id": "act06",
+    "activity": "Configuring the FTP Connector",
+    "pdf_page_range": [
+      42,
+      48
+    ],
+    "screenshot_pages": [
+      {
+        "pdf_page": 43,
+        "asset_count": 1,
+        "assets": [
+          "assets/images/img-043-070.png"
+        ]
+      },
+      {
+        "pdf_page": 44,
+        "asset_count": 1,
+        "assets": [
+          "assets/images/img-044-072.png"
+        ]
+      },
+      {
+        "pdf_page": 45,
+        "asset_count": 3,
+        "assets": [
+          "assets/images/img-045-074.png",
+          "assets/images/img-045-075.png",
+          "assets/images/img-045-076.png"
+        ]
+      },
+      {
+        "pdf_page": 46,
+        "asset_count": 2,
+        "assets": [
+          "assets/images/img-046-078.png",
+          "assets/images/img-046-079.png"
+        ]
+      },
+      {
+        "pdf_page": 47,
+        "asset_count": 2,
+        "assets": [
+          "assets/images/img-047-081.png",
+          "assets/images/img-047-082.png"
+        ]
+      },
+      {
+        "pdf_page": 48,
+        "asset_count": 1,
+        "assets": [
+          "assets/images/img-048-084.png"
+        ]
+      }
+    ],
+    "screenshot_count": 10,
+    "tutorial": "slideshow included"
+  },
+  {
+    "activity_id": "act07",
+    "activity": "Creating the Disk Connector Operation",
+    "pdf_page_range": [
+      49,
+      53
+    ],
+    "screenshot_pages": [
+      {
+        "pdf_page": 50,
+        "asset_count": 2,
+        "assets": [
+          "assets/images/img-050-089.png",
+          "assets/images/img-050-090.png"
+        ]
+      },
+      {
+        "pdf_page": 51,
+        "asset_count": 3,
+        "assets": [
+          "assets/images/img-051-092.png",
+          "assets/images/img-051-093.png",
+          "assets/images/img-051-094.png"
+        ]
+      },
+      {
+        "pdf_page": 52,
+        "asset_count": 2,
+        "assets": [
+          "assets/images/img-052-096.png",
+          "assets/images/img-052-097.png"
+        ]
+      },
+      {
+        "pdf_page": 53,
+        "asset_count": 3,
+        "assets": [
+          "assets/images/img-053-099.png",
+          "assets/images/img-053-100.png",
+          "assets/images/img-053-101.png"
+        ]
+      }
+    ],
+    "screenshot_count": 10,
+    "tutorial": "slideshow included"
+  },
+  {
+    "activity_id": "act08",
+    "activity": "Creating the Set Properties Step",
+    "pdf_page_range": [
+      62,
+      66
+    ],
+    "screenshot_pages": [
+      {
+        "pdf_page": 63,
+        "asset_count": 3,
+        "assets": [
+          "assets/images/img-063-106.png",
+          "assets/images/img-063-107.png",
+          "assets/images/img-063-108.png"
+        ]
+      },
+      {
+        "pdf_page": 64,
+        "asset_count": 2,
+        "assets": [
+          "assets/images/img-064-110.png",
+          "assets/images/img-064-111.png"
+        ]
+      },
+      {
+        "pdf_page": 65,
+        "asset_count": 2,
+        "assets": [
+          "assets/images/img-065-113.png",
+          "assets/images/img-065-114.png"
+        ]
+      },
+      {
+        "pdf_page": 66,
+        "asset_count": 2,
+        "assets": [
+          "assets/images/img-066-116.png",
+          "assets/images/img-066-117.png"
+        ]
+      }
+    ],
+    "screenshot_count": 9,
+    "tutorial": "slideshow included"
+  },
+  {
+    "activity_id": "act09",
+    "activity": "Testing the Process",
+    "pdf_page_range": [
+      67,
+      70
+    ],
+    "screenshot_pages": [
+      {
+        "pdf_page": 68,
+        "asset_count": 3,
+        "assets": [
+          "assets/images/img-068-122.png",
+          "assets/images/img-068-123.png",
+          "assets/images/img-068-124.jpg"
+        ]
+      },
+      {
+        "pdf_page": 69,
+        "asset_count": 2,
+        "assets": [
+          "assets/images/img-069-126.png",
+          "assets/images/img-069-127.png"
+        ]
+      },
+      {
+        "pdf_page": 70,
+        "asset_count": 1,
+        "assets": [
+          "assets/images/img-070-129.png"
+        ]
+      }
+    ],
+    "screenshot_count": 6,
+    "tutorial": "slideshow included"
+  },
+  {
+    "activity_id": "act10",
+    "activity": "Create an XML Profile",
+    "pdf_page_range": [
+      77,
+      80
+    ],
+    "screenshot_pages": [
+      {
+        "pdf_page": 78,
+        "asset_count": 3,
+        "assets": [
+          "assets/images/img-078-134.png",
+          "assets/images/img-078-135.png",
+          "assets/images/img-078-136.png"
+        ]
+      },
+      {
+        "pdf_page": 79,
+        "asset_count": 2,
+        "assets": [
+          "assets/images/img-079-138.png",
+          "assets/images/img-079-139.png"
+        ]
+      },
+      {
+        "pdf_page": 80,
+        "asset_count": 2,
+        "assets": [
+          "assets/images/img-080-141.png",
+          "assets/images/img-080-142.png"
+        ]
+      }
+    ],
+    "screenshot_count": 7,
+    "tutorial": "slideshow included"
+  },
+  {
+    "activity_id": "act11",
+    "activity": "Create a Map Step",
+    "pdf_page_range": [
+      81,
+      83
+    ],
+    "screenshot_pages": [
+      {
+        "pdf_page": 82,
+        "asset_count": 2,
+        "assets": [
+          "assets/images/img-082-147.png",
+          "assets/images/img-082-148.png"
+        ]
+      },
+      {
+        "pdf_page": 83,
+        "asset_count": 1,
+        "assets": [
+          "assets/images/img-083-150.jpg"
+        ]
+      }
+    ],
+    "screenshot_count": 3,
+    "tutorial": "slideshow included"
+  },
+  {
+    "activity_id": "act12",
+    "activity": "Choose an Existing Profile (Map Source)",
+    "pdf_page_range": [
+      84,
+      86
+    ],
+    "screenshot_pages": [
+      {
+        "pdf_page": 85,
+        "asset_count": 2,
+        "assets": [
+          "assets/images/img-085-155.png",
+          "assets/images/img-085-156.png"
+        ]
+      },
+      {
+        "pdf_page": 86,
+        "asset_count": 1,
+        "assets": [
+          "assets/images/img-086-158.png"
+        ]
+      }
+    ],
+    "screenshot_count": 3,
+    "tutorial": "slideshow included"
+  },
+  {
+    "activity_id": "act13",
+    "activity": "Manually Create a Flat File Profile",
+    "pdf_page_range": [
+      87,
+      92
+    ],
+    "screenshot_pages": [
+      {
+        "pdf_page": 88,
+        "asset_count": 2,
+        "assets": [
+          "assets/images/img-088-163.png",
+          "assets/images/img-088-164.png"
+        ]
+      },
+      {
+        "pdf_page": 89,
+        "asset_count": 1,
+        "assets": [
+          "assets/images/img-089-166.png"
+        ]
+      },
+      {
+        "pdf_page": 90,
+        "asset_count": 3,
+        "assets": [
+          "assets/images/img-090-168.png",
+          "assets/images/img-090-169.png",
+          "assets/images/img-090-170.png"
+        ]
+      },
+      {
+        "pdf_page": 91,
+        "asset_count": 2,
+        "assets": [
+          "assets/images/img-091-172.png",
+          "assets/images/img-091-173.png"
+        ]
+      },
+      {
+        "pdf_page": 92,
+        "asset_count": 2,
+        "assets": [
+          "assets/images/img-092-175.png",
+          "assets/images/img-092-176.png"
+        ]
+      }
+    ],
+    "screenshot_count": 10,
+    "tutorial": "slideshow included"
+  },
+  {
+    "activity_id": "act14",
+    "activity": "Map the Fields",
+    "pdf_page_range": [
+      93,
+      94
+    ],
+    "screenshot_pages": [
+      {
+        "pdf_page": 94,
+        "asset_count": 1,
+        "assets": [
+          "assets/images/img-094-181.png"
+        ]
+      }
+    ],
+    "screenshot_count": 1,
+    "tutorial": "slideshow included"
+  },
+  {
+    "activity_id": "act15",
+    "activity": "Set a Default Value",
+    "pdf_page_range": [
+      95,
+      96
+    ],
+    "screenshot_pages": [
+      {
+        "pdf_page": 96,
+        "asset_count": 3,
+        "assets": [
+          "assets/images/img-096-186.png",
+          "assets/images/img-096-187.png",
+          "assets/images/img-096-188.png"
+        ]
+      }
+    ],
+    "screenshot_count": 3,
+    "tutorial": "slideshow included"
+  },
+  {
+    "activity_id": "act16",
+    "activity": "Complete the Process",
+    "pdf_page_range": [
+      97,
+      98
+    ],
+    "screenshot_pages": [
+      {
+        "pdf_page": 98,
+        "asset_count": 3,
+        "assets": [
+          "assets/images/img-098-193.png",
+          "assets/images/img-098-194.png",
+          "assets/images/img-098-195.png"
+        ]
+      }
+    ],
+    "screenshot_count": 3,
+    "tutorial": "slideshow included"
+  },
+  {
+    "activity_id": "act17",
+    "activity": "Package a Process",
+    "pdf_page_range": [
+      102,
+      104
+    ],
+    "screenshot_pages": [
+      {
+        "pdf_page": 103,
+        "asset_count": 2,
+        "assets": [
+          "assets/images/img-103-200.png",
+          "assets/images/img-103-201.png"
+        ]
+      },
+      {
+        "pdf_page": 104,
+        "asset_count": 3,
+        "assets": [
+          "assets/images/img-104-203.png",
+          "assets/images/img-104-204.png",
+          "assets/images/img-104-205.png"
+        ]
+      }
+    ],
+    "screenshot_count": 5,
+    "tutorial": "slideshow included"
+  },
+  {
+    "activity_id": "act18",
+    "activity": "Deploy a Process",
+    "pdf_page_range": [
+      105,
+      108
+    ],
+    "screenshot_pages": [
+      {
+        "pdf_page": 106,
+        "asset_count": 2,
+        "assets": [
+          "assets/images/img-106-210.png",
+          "assets/images/img-106-211.png"
+        ]
+      },
+      {
+        "pdf_page": 107,
+        "asset_count": 2,
+        "assets": [
+          "assets/images/img-107-213.png",
+          "assets/images/img-107-214.png"
+        ]
+      },
+      {
+        "pdf_page": 108,
+        "asset_count": 2,
+        "assets": [
+          "assets/images/img-108-216.png",
+          "assets/images/img-108-217.png"
+        ]
+      }
+    ],
+    "screenshot_count": 6,
+    "tutorial": "slideshow included"
+  },
+  {
+    "activity_id": "act19",
+    "activity": "Manually Execute a Process",
+    "pdf_page_range": [
+      109,
+      112
+    ],
+    "screenshot_pages": [
+      {
+        "pdf_page": 110,
+        "asset_count": 2,
+        "assets": [
+          "assets/images/img-110-222.png",
+          "assets/images/img-110-223.png"
+        ]
+      },
+      {
+        "pdf_page": 111,
+        "asset_count": 4,
+        "assets": [
+          "assets/images/img-111-225.png",
+          "assets/images/img-111-226.png",
+          "assets/images/img-111-227.png",
+          "assets/images/img-111-228.png"
+        ]
+      },
+      {
+        "pdf_page": 112,
+        "asset_count": 1,
+        "assets": [
+          "assets/images/img-112-230.png"
+        ]
+      }
+    ],
+    "screenshot_count": 7,
+    "tutorial": "slideshow included"
+  },
+  {
+    "activity_id": "act20",
+    "activity": "Undeploy a Process",
+    "pdf_page_range": [
+      113,
+      115
+    ],
+    "screenshot_pages": [
+      {
+        "pdf_page": 114,
+        "asset_count": 2,
+        "assets": [
+          "assets/images/img-114-235.png",
+          "assets/images/img-114-236.png"
+        ]
+      },
+      {
+        "pdf_page": 115,
+        "asset_count": 1,
+        "assets": [
+          "assets/images/img-115-238.png"
+        ]
+      }
+    ],
+    "screenshot_count": 3,
+    "tutorial": "slideshow included"
+  }
+]
