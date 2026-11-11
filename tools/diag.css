@@ -1,0 +1,12 @@
+.dgx-wrap{display:grid;gap:1rem;margin:1rem 0}
+.dgx{background:var(--card);border:1px solid var(--bd);border-radius:16px;padding:1rem;min-width:0}
+.dgx h3{margin:.1rem 0 .3rem;font-size:1.02rem}
+.dgx-note{font-size:.84rem;color:var(--mut);margin:.2rem 0 .6rem;line-height:1.5}
+.dgx-tabs{display:flex;flex-wrap:wrap;gap:.4rem;margin:.3rem 0 .6rem}
+.dgx-tabs button[aria-pressed=true]{background:linear-gradient(135deg,var(--a),var(--b));color:#fff;border-color:transparent}
+.dgx-stage{background:#fff;border:1px solid var(--bd);border-radius:12px;padding:.5rem;max-width:100%;overflow:hidden}
+.dgx-stage.big{overflow:auto;max-height:80vh}
+.dgx-stage.big .dgx-svg svg{width:1000px;max-width:none}
+.dgx-svg svg,.dgx-img img{display:block;width:100%;height:auto;max-width:100%}
+.dgx-stage.big .dgx-svg svg{height:auto}
+.dgx-step{margin:.7rem 0 .3rem;padding:.65rem .8rem;border:1px dashed var(--bd);border-radius:10px;line-height:1.5;min-height:3rem;overflow-wrap:anywhere}
